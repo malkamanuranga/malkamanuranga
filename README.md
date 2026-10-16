@@ -1,24 +1,31 @@
-<!-- HEADER BANNER -->
+<!-- HEADER: Waving animation at the top -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=50&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=150&section=header" />
 </div>
 
-<h1 align="center">Hi 👋, I'm Malka Manuranga</h1>
-<h3 align="center">Software Engineering Enthusiast | Open to Internships</h3>
+<!-- TYPING ANIMATION: Replaces the static "Welcome" text -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Malka+Manuranga;DevOps+%26+Cloud+Enthusiast;Software+Engineering+Learner;AWS+Certified+Developer+-+Associate+(In+Progress);Seeking+Internship+Opportunities" alt="Typing SVG" />
+</div>
+
+<!-- Headline -->
+<h3 align="center">Passionate about bridging development and operations | Dedicated to continuous growth</h3>
 
 ---
 
 ### 👨‍💻 About Me:
+I am a highly motivated and enthusiastic learner with a strong passion for **DevOps, Cloud Computing, and Software Engineering**. I am currently building a solid foundation through hands-on projects and am actively seeking an internship to apply my skills in a real-world environment.
+
 - 🎓 I’m currently **studying for the AWS Certified Developer - Associate** certification.
-- 🔭 I’m actively seeking a **Software Engineering, Cloud, or DevOps Internship**.
-- 🌱 I’m currently learning **Terraform, AWS, Docker, Kubernetes, and CI/CD pipelines**.
-- 💬 Ask me about **Python, Java, or my learning journey**.
+- 🚀 I’m actively seeking a **DevOps, Cloud, or Software Engineering Internship**.
+- 🌱 I’m currently learning **Terraform, AWS, Docker, Kubernetes, CI/CD pipelines, and modern development practices**.
+- 💡 I have a strong foundation in **Python, Java, and Git**, and I'm always eager to learn new technologies.
+- 🤝 I am a team player, a fast learner, and ready to contribute positively to any engineering team.
 - 📫 How to reach me: **bmmanuranga@gmail.com**
-- ⚡ Fun fact: **I love automating everything!**
 
 ---
 
-### 🌐 Socials:
+### 🌐 Connect with Me:
 <p align="left">
 <a href="https://www.linkedin.com/in/malka-manuranga"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/malkamanuranga"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -46,10 +53,10 @@
 ---
 
 ### 🚀 Featured Projects:
-*(Here are the projects I am currently building to practice my skills)*
+*(A showcase of my hands-on learning and practical application of DevOps and Cloud concepts)*
 
-*   **[llm-package-hallucination-suite](https://github.com/malkamanuranga/llm-package-hallucination-suite)** - A Python project focused on LLM package verification.
-*   **[devops-project-1](https://github.com/malkamanuranga/devops-project-1)** - A containerized Flask application demonstrating DevOps fundamentals (Docker, CI/CD).
+*   **[llm-package-hallucination-suite](https://github.com/malkamanuranga/llm-package-hallucination-suite)** - A Python-based project focused on LLM package verification and security.
+*   **[devops-project-1](https://github.com/malkamanuranga/devops-project-1)** - A containerized Flask application demonstrating DevOps fundamentals, featuring automated unit testing with PyTest and a Dockerfile.
 *   **[terraform-aws-infra](https://github.com/malkamanuranga/terraform-aws-infra)** - Infrastructure as Code practice using Terraform and AWS.
 
 ---
