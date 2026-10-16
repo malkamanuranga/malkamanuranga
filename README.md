@@ -4,21 +4,15 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Malka Manuranga</h1>
-<h3 align="center">Aspiring Cloud & DevOps Engineer | Open to Internships</h3>
-
-<!-- PROFILE VIEWS -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=malkamanuranga&label=Profile%20views&color=0e75b6&style=flat" alt="malkamanuranga" />
-</p>
+<h3 align="center">Software Engineering Enthusiast | Open to Internships</h3>
 
 ---
 
 ### 👨‍💻 About Me:
-- 🎓 I’m currently reading for the **AWS Certified Developer - Associate** certification.
-- 🔭 I’m currently building personal projects like **DevOps Project 1** and **LLM Package Hallucination Suite** to practice my skills.
-- 👨‍💻 I’m actively looking for an **Internship** or **Entry-Level** role in **DevOps, Cloud, or related fields**.
+- 🎓 I’m currently **studying for the AWS Certified Developer - Associate** certification.
+- 🔭 I’m actively seeking a **Software Engineering, Cloud, or DevOps Internship**.
 - 🌱 I’m currently learning **Terraform, AWS, Docker, Kubernetes, and CI/CD pipelines**.
-- 💬 Ask me about **Python, Java, Terraform, and DevOps basics**.
+- 💬 Ask me about **Python, Java, or my learning journey**.
 - 📫 How to reach me: **bmmanuranga@gmail.com**
 - ⚡ Fun fact: **I love automating everything!**
 
@@ -35,7 +29,6 @@
 ---
 
 ### 🛠️ Tech Stack & Tools I'm Learning:
-<!-- This section shows the tools you are familiar with or currently studying -->
 <p align="left">
   <!-- Cloud & DevOps -->
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
@@ -46,35 +39,23 @@
   <!-- Programming -->
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <!-- Web/App -->
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-### 📊 My GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malkamanuranga&show_icons=true&theme=radical&hide_border=true" alt="malkamanuranga's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malkamanuranga&theme=radical&hide_border=true" alt="malkamanuranga's Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malkamanuranga&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+### 🚀 Featured Projects:
+*(Here are the projects I am currently building to practice my skills)*
+
+*   **[llm-package-hallucination-suite](https://github.com/malkamanuranga/llm-package-hallucination-suite)** - A Python project focused on LLM package verification.
+*   **[devops-project-1](https://github.com/malkamanuranga/devops-project-1)** - A containerized Flask application demonstrating DevOps fundamentals (Docker, CI/CD).
+*   **[terraform-aws-infra](https://github.com/malkamanuranga/terraform-aws-infra)** - Infrastructure as Code practice using Terraform and AWS.
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=malkamanuranga&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-</p>
-
----
-
-### ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
+### 📜 Certifications (In Progress):
+*   **AWS Certified Developer - Associate** *(Currently Studying)*
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=100&section=footer" />
