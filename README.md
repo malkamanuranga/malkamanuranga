@@ -3,12 +3,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=150&section=header" />
 </div>
 
-<!-- TYPING ANIMATION: Replaces the static "Welcome" text -->
+<!-- TYPING ANIMATION: Main Intro -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Malka+Manuranga;DevOps+%26+Cloud+Enthusiast;Software+Engineering+Learner;AWS+Certified+Developer+-+Associate+(In+Progress);Seeking+Internship+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Malka+Manuranga;DevOps+%26+Cloud+Enthusiast;Software+Engineering+Graduate;AWS+Certified+Developer+-+Associate+(In+Progress);Seeking+Internship+Opportunities" alt="Typing SVG" />
 </div>
 
-<!-- Headline -->
+<!-- TYPING ANIMATION: Education Focus -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=10B981&center=true&vCenter=true&width=700&lines=Graduated+from+NSBM+Green+University;National+School+of+Business+Management;Faculty+of+Computing+%26+Software+Engineering" alt="Education Typing SVG" />
+</div>
+
 <h3 align="center">Passionate about bridging development and operations | Dedicated to continuous growth</h3>
 
 ---
@@ -16,7 +20,8 @@
 ### 👨‍💻 About Me:
 I am a highly motivated and enthusiastic learner with a strong passion for **DevOps, Cloud Computing, and Software Engineering**. I am currently building a solid foundation through hands-on projects and am actively seeking an internship to apply my skills in a real-world environment.
 
-- 🎓 I’m currently **studying for the AWS Certified Developer - Associate** certification.
+- 🎓 I am a **Software Engineering graduate** from the **National School of Business Management (NSBM)**.
+- 📜 I’m currently **studying for the AWS Certified Developer - Associate** certification.
 - 🚀 I’m actively seeking a **DevOps, Cloud, or Software Engineering Internship**.
 - 🌱 I’m currently learning **Terraform, AWS, Docker, Kubernetes, CI/CD pipelines, and modern development practices**.
 - 💡 I have a strong foundation in **Python, Java, and Git**, and I'm always eager to learn new technologies.
