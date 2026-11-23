@@ -23,6 +23,10 @@
   <a href="https://stackoverflow.com/users/33210945/bm-manuranga"><img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/malkamanuranga/malkamanuranga/raw/main/Malka_Manuranga_DevOps_Portfolio.pdf"><img src="https://img.shields.io/badge/📄%20Download-DevOps%20Portfolio%20PDF-8B5CF6?style=for-the-badge" /></a>
+</p>
+
 ---
 
 ## 👋 About me
