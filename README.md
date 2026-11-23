@@ -1,6 +1,8 @@
-<!-- HEADER -->
+<!-- HEADER (same simple banner style as your original README, plus real text so the name always shows) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=190&section=header&text=Malka%20Manuranga&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Junior%20Cloud%20%26%20DevOps%20Engineer&descSize=20&descAlignY=58" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=150&section=header" alt="banner" />
+  <h1>Malka Manuranga</h1>
+  <h3>Junior Cloud &amp; DevOps Engineer</h3>
 </div>
 
 <!-- TYPING ANIMATION -->
