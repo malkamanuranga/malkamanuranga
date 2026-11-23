@@ -1,74 +1,119 @@
-<!-- HEADER: Waving animation at the top -->
+<!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=150&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=190&section=header&text=Malka%20Manuranga&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Junior%20Cloud%20%26%20DevOps%20Engineer&descSize=20&descAlignY=58" alt="header" />
 </div>
 
-<!-- TYPING ANIMATION: Main Intro -->
+<!-- TYPING ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Malka+Manuranga;DevOps+%26+Cloud+Enthusiast;Software+Engineering+Graduate;AWS+Certified+Developer+-+Associate+(In+Progress);Seeking+Internship+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=720&height=50&lines=I+turn+commits+into+running+systems+%F0%9F%9A%80;CI%2FCD+%C2%B7+Kubernetes+%C2%B7+Terraform+%C2%B7+GitOps;Security-first+pipelines%3A+scan+%E2%86%92+sign+%E2%86%92+deploy;Building+in+public+%E2%80%94+every+claim+is+verifiable" alt="typing" />
 </div>
 
-<!-- TYPING ANIMATION: Education Focus -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=10B981&center=true&vCenter=true&width=700&lines=Graduated+from+NSBM+Green+University;National+School+of+Business+Management;Faculty+of+Computing+%26+Software+Engineering" alt="Education Typing SVG" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-Junior%20DevOps%20%2F%20Cloud%20roles-10B981?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Based%20in-Colombo%2C%20Sri%20Lanka-3B82F6?style=for-the-badge" />
+</p>
 
-<h3 align="center">Passionate about bridging development and operations | Dedicated to continuous growth</h3>
-
----
-
-### 👨‍💻 About Me:
-I am a highly motivated and enthusiastic learner with a strong passion for **DevOps, Cloud Computing, and Software Engineering**. I am currently building a solid foundation through hands-on projects and am actively seeking an internship to apply my skills in a real-world environment.
-
-- 🎓 I am a **Software Engineering graduate** from the **National School of Business Management (NSBM)**.
-- 📜 I’m currently **studying for the AWS Certified Developer - Associate** certification.
-- 🚀 I’m actively seeking a **DevOps, Cloud, or Software Engineering Internship**.
-- 🌱 I’m currently learning **Terraform, AWS, Docker, Kubernetes, CI/CD pipelines, and modern development practices**.
-- 💡 I have a strong foundation in **Python, Java, and Git**, and I'm always eager to learn new technologies.
-- 🤝 I am a team player, a fast learner, and ready to contribute positively to any engineering team.
-- 📫 How to reach me: **bmmanuranga@gmail.com**
-
----
-
-### 🌐 Connect with Me:
-<p align="left">
-<a href="https://www.linkedin.com/in/malka-manuranga"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/malkamanuranga"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://stackoverflow.com/users/33210945/bm-manuranga"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" /></a>
-<a href="https://orcid.org/0009-0004-9208-7525"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/malka-manuranga"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:bmmanuranga@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://hub.docker.com/u/malkamanuranga"><img src="https://img.shields.io/badge/Docker%20Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/33210945/bm-manuranga"><img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🛠️ Tech Stack & Tools I'm Learning:
-<p align="left">
-  <!-- Cloud & DevOps -->
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <!-- Programming -->
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+## 👋 About me
+
+I'm a **BSc (Hons) Software Engineering graduate** (NSBM Green University) who builds **DevOps and cloud projects in public**. I care about the boring-but-vital parts of delivery: automated checks, least-privilege security, reproducible infrastructure and clear documentation.
+
+- 🔭 Building: GitOps, CI/CD and Infrastructure-as-Code platforms
+- 🎓 Studying: **AWS Certified Solutions Architect – Associate** *(in progress)*
+- 🧪 Honesty rule: every project below marks what is **verified**, **written** or **planned**
+- 💼 Background: Full Stack Intern (React, PostgreSQL, MongoDB) and Industrial Trainee (Agile project coordination)
+- 📫 Reach me: **bmmanuranga@gmail.com**
+
+---
+
+## 🛠️ Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,terraform,ansible,docker,kubernetes,githubactions,jenkins,prometheus,grafana,linux,bash,git&perline=12" /><br/>
+  <img src="https://skillicons.dev/icons?i=python,nodejs,js,fastapi,express,postgres,mongodb,react,github,vscode&perline=10" />
+</p>
+
+<details>
+<summary><b>Full toolbox</b></summary>
+
+| Area | Tools |
+|---|---|
+| **Containers** | Docker (multi-stage, non-root, healthchecks), Compose, Docker Hub, GHCR |
+| **Orchestration & GitOps** | Kubernetes, kind, Kustomize, Helm, ArgoCD, Kyverno, kubeconform |
+| **IaC** | Terraform (modules, envs, validation), Ansible, AWS (VPC, SG, S3) |
+| **CI/CD** | GitHub Actions (matrix, caching, least-privilege), Jenkins, Dependabot |
+| **Security** | Trivy, npm audit, SSH hardening, fail2ban, encrypted S3, read-only root FS |
+| **Observability** | Prometheus, PromQL, Alertmanager, Grafana, promtool tests |
+| **Languages** | Python, JavaScript/Node.js, HCL, Bash, PowerShell, YAML |
+
+</details>
+
+---
+
+## 🚀 Featured projects
+
+| Project | What it shows | Status |
+|---|---|---|
+| **[gitops-platform](https://github.com/malkamanuranga/gitops-platform)** | Kustomize overlays (dev/staging/prod), ArgoCD apps, 9 Kyverno policies, kubeconform in CI | ![](https://img.shields.io/badge/CI-verified-2EA44F) ![](https://img.shields.io/badge/kind%20cluster-verified-2EA44F) ![](https://img.shields.io/badge/ArgoCD%2FKyverno-written-F59E0B) |
+| **[shortlink-platform](https://github.com/malkamanuranga/shortlink-platform)** | Containerised API: tests, Trivy, GHCR publish, Helm chart, Jenkins approval gate | ![](https://img.shields.io/badge/CI%20%2B%20scans-verified-2EA44F) ![](https://img.shields.io/badge/Helm%2FJenkins-written-F59E0B) |
+| **[platform-infra](https://github.com/malkamanuranga/platform-infra)** | Reusable Terraform modules (VPC, SG, encrypted S3) and Ansible hardening roles | ![](https://img.shields.io/badge/fmt%20%2B%20validate%20%2B%20scan-verified-2EA44F) ![](https://img.shields.io/badge/apply-planned-3B82F6) |
+| **[observability-stack](https://github.com/malkamanuranga/observability-stack)** | Prometheus, Alertmanager, Grafana with alerts as code and promtool unit tests | ![](https://img.shields.io/badge/config%20checks-verified-2EA44F) ![](https://img.shields.io/badge/live%20run-planned-3B82F6) |
+| **[cloudpulse-platform](https://github.com/malkamanuranga/cloudpulse-platform)** | Node.js metrics API, image-size comparison (single vs multi-stage), CI | ![](https://img.shields.io/badge/CI%20%2B%20image-verified-2EA44F) ![](https://img.shields.io/badge/publish-in%20progress-F59E0B) |
+| **[orders-platform](https://github.com/malkamanuranga/orders-platform)** | Docker, Compose, Jenkins, Kubernetes end to end | ![](https://img.shields.io/badge/learning%20project-complete-6B7280) |
+| **[status-api](https://github.com/malkamanuranga/status-api)** | FastAPI, pytest, ruff, CI matrix on Python 3.11/3.12 | ![](https://img.shields.io/badge/complete-6B7280) |
+
+<sub>🟢 verified = ran or passed CI &nbsp;·&nbsp; 🟠 written/in progress = code exists, not yet proven live &nbsp;·&nbsp; 🔵 planned</sub>
+
+---
+
+## 🔄 How I like to ship
+
+```mermaid
+flowchart LR
+    A[Commit / PR] --> B[Lint + Tests]
+    B --> C[Secret + Dependency Scan]
+    C --> D[Build Image Once]
+    D --> E[Trivy Scan]
+    E --> F[Push to Registry]
+    F --> G[Update Git Manifest]
+    G --> H[ArgoCD Sync]
+    H --> I[Staging → Approved Prod]
+```
+
+---
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=malkamanuranga&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malkamanuranga&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=malkamanuranga&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=malkamanuranga&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 </p>
 
 ---
 
-### 🚀 Featured Projects:
-*(A showcase of my hands-on learning and practical application of DevOps and Cloud concepts)*
+## 🎯 Currently working on
 
-*   **[llm-package-hallucination-suite](https://github.com/malkamanuranga/llm-package-hallucination-suite)** - A Python-based project focused on LLM package verification and security.
-*   **[devops-project-1](https://github.com/malkamanuranga/devops-project-1)** - A containerized Flask application demonstrating DevOps fundamentals, featuring automated unit testing with PyTest and a Dockerfile.
-*   **[terraform-aws-infra](https://github.com/malkamanuranga/terraform-aws-infra)** - Infrastructure as Code practice using Terraform and AWS.
-
----
-
-### 📜 Certifications (In Progress):
-*   **AWS Certified Developer - Associate** *(Currently Studying)*
+- ✅ Connecting repos into one flow: build → scan → publish → GitOps deploy
+- 🔐 Adding image signing (cosign) and policy enforcement (Kyverno in a real cluster)
+- ☁️ A safe, budget-capped `terraform apply` to AWS to turn "written" into "verified"
+- 📚 AWS Solutions Architect – Associate study
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=100&section=footer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Open+to+junior+DevOps+%2F+Cloud+roles;Let's+build+something+reliable+%F0%9F%A4%9D" alt="footer typing" />
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=110&section=footer" width="100%" alt="footer" />
